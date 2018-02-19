@@ -1,0 +1,1 @@
+Script para enviu de email.
